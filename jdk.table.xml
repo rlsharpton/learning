@@ -1,0 +1,165 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.4.3 (C:\Python34\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="C:\Python34\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Python34/DLLs" />
+            <root type="simple" url="file://C:/Python34/Lib" />
+            <root type="simple" url="file://C:/Python34" />
+            <root type="simple" url="file://C:/Python34/Lib/site-packages" />
+            <root type="simple" url="file://C:/Python34/Lib/site-packages/win32" />
+            <root type="simple" url="file://C:/Python34/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://C:/Python34/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1442825926" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.3 virtualenv at C:\Users\rls\.virtualenvs\heroku" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="C:\Users\rls\.virtualenvs\heroku\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/heroku/Lib" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/heroku/Scripts" />
+            <root type="simple" url="file://C:/python36/Lib" />
+            <root type="simple" url="file://C:/python36/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/heroku" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/heroku/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-50995237" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/code/heroku/python-getting-started" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.3 virtualenv at C:\Users\rls\.virtualenvs\tangosite" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="C:\Users\rls\.virtualenvs\tangosite\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/tangosite/Lib" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/tangosite/Scripts" />
+            <root type="simple" url="file://C:/python36/Lib" />
+            <root type="simple" url="file://C:/python36/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/tangosite" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/tangosite/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1596182781" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.3 virtualenv at C:\Users\rls\.virtualenvs\ll_env" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="C:\Users\rls\.virtualenvs\ll_env\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/ll_env/Lib" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/ll_env/Scripts" />
+            <root type="simple" url="file://C:/python36/Lib" />
+            <root type="simple" url="file://C:/python36/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/ll_env" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/ll_env/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1011288273" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.3 (C:\python36\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="C:\python36\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/python36/DLLs" />
+            <root type="simple" url="file://C:/python36/Lib" />
+            <root type="simple" url="file://C:/python36" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages" />
+            <root type="simple" url="file://C:/python36/Lib/site-packages" />
+            <root type="simple" url="file://C:/python36/Lib/site-packages/win32" />
+            <root type="simple" url="file://C:/python36/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://C:/python36/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1857010712" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
